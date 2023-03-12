@@ -1,0 +1,1 @@
+Algoritmos resolvidos do livro: Algoritmos_Anita_Lopes_e_Guto_Garcia.
